@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32-WROOM-32E-N4")(type "Legacy")(uri "${KIPRJMOD}/Parts/ESP32-WROOM-32E-N4/ESP32-WROOM-32E-N4/KiCad/ESP32-WROOM-32E-N4.lib")(options "")(descr ""))
+  (lib (name "TL1018AAAF160QG")(type "Legacy")(uri "${KIPRJMOD}/Parts/TL1018AAAF160QG/TL1018AAAF160QG/KiCad/TL1018AAAF160QG.lib")(options "")(descr ""))
+)
